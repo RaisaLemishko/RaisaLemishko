@@ -27,9 +27,6 @@ I care deeply about:
 
 - Solely leading all aspects of Android development (Kotlin, KMP, Compose, Coroutines, Ktor, Koin)
 - Managing the release process, CI/CD workflows, and versioning strategies (GitHub Actions, Google Play Console) for two app variants: Standard and Early Access
-- Leading communication with users (announcements, support) on Discord and maintaining app stability (Crashlytics, PostHog)
-- Engineered an immersive study feature with YouTube/local video playback, AI-powered subtitle generation (OpenAI API integration), and instant flashcard creation
-- Created an OCR-powered feature to extract words and create flashcards from images (ML Kit)
 
 ---
 
@@ -86,7 +83,7 @@ Firebase, Crashlytics, Amplitude, PostHog
 
 ## 🌍 Languages
 
-English (C1, Fluent) · Ukrainian (Native) · Russian (Native) · Hebrew (Intermediate)
+English (Fluent) · Ukrainian (Native) · Russian (Native) · Hebrew (Intermediate)
 
 ---
 
